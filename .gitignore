@@ -12,3 +12,7 @@
 .DS_Store
 yarn-debug.log*
 yarn-error.log*
+*.sw[op]
+venv/
+__pycache__/
+/secrets.sh

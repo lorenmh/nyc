@@ -15,3 +15,8 @@ git push -u origin master
 
 # Cmds
 `yarn run` to run
+
+### `secrets.sh`
+```
+export API_KEY_ALPHAVANTAGE=the_key
+```
